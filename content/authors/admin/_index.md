@@ -1,6 +1,7 @@
 ---
 title: Minghui ZHU
 role: Undergraduate Student
+avatar_filename: null
 bio: My research interests include computational social science.
 interests:
   - QuantitativeMethod
@@ -33,5 +34,3 @@ superuser: true
 highlight_name: false
 ---
 Minghui Zhu is an undergraduate student from University of Macau.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
