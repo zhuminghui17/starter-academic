@@ -67,8 +67,10 @@ highlight_name: false
 
 Welcome! I am a rising senior student from the Faculty of Social Sciences, University of Macau. I am majoring in Economics and taking advanced seminars in Politcal Science. I also studied in University of Leeds (2019) and Peking University (2021) as summer exchange student.
 
-I am working as Research Assistant to Professor [Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) with rich experiences in data collection, cleaning and analysis with R. I also worked as Research Intern at National Survey Research Center at Renmin Univeristy of China in December 2020.
+I am working as Research Assistant to Professor [Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) with rich experiences in data collection, cleaning and analysis with R. I also worked as Research Intern at [National Survey Research Center at Renmin Univeristy of China](http://nsrc.ruc.edu.cn/) in December 2020.
 
 I am currently on the 2021-2022 Master/Ph.D application cycle.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Feel free to reach me at zhuminghui [at] gmail.com
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Zhu Minghui.pdf" "newtab" >}}resumé{{< /staticref >}}.
