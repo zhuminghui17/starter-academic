@@ -35,9 +35,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+#- icon: envelope
+#  icon_pack: fas
+#  link: '/#contact'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -71,6 +71,6 @@ I am working as Research Assistant to Professor [Tao LI](https://www.um.edu.mo/f
 
 I am currently on the 2021-2022 Master/Ph.D application cycle.
 
-Feel free to reach me at zhuminghui [at] gmail.com
+Feel free to reach me at zhuminghui17 ### gmail.com
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Zhu Minghui.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Zhu Minghui.pdf" "newtab" >}}CV{{< /staticref >}}.
