@@ -11,10 +11,10 @@ role: Undergraduate Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Macau
-  url: https://www.stanford.edu/
+  url: https://www.um.edu.mo/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a rising senior student.
+bio: Welcome! I am a Research Assistant to Professor Tao LI and a rising senior student at University of Macau. I am currently on the 2021-2022 Ph.D. application cycle.
 
 # Interests to show in About widget
 interests:
@@ -27,7 +27,7 @@ education:
   courses:
   - course: B.S.s in Economics
     institution: University of Macau
-    year: 2018-presents
+    year: Expected 2022
  
 
 # Social/Academic Networking
