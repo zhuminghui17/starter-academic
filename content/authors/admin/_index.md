@@ -69,8 +69,6 @@ Welcome! I am a rising senior student from the Faculty of Social Sciences, Unive
 
 I am working as Research Assistant to Professor [Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) with rich experiences in data collection, cleaning and analysis with R. Currently I am working on projects regarding *intergenerational economic inequality* with various valuable datasets. I also worked as Research Intern at [National Survey Research Center at Renmin Univeristy of China](http://nsrc.ruc.edu.cn/) in December 2020.
 
-I am currently on the 2021-2022 Master/Ph.D application cycle.
-
-Feel free to reach me at zhuminghui17 ### gmail.com
+I am currently looking for full-time RA positions starting from January 2022! Please feel free to reach me at zhuminghui17 ### gmail.com.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Zhu Minghui.pdf" "newtab" >}}CV{{< /staticref >}}.
