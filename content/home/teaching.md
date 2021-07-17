@@ -16,7 +16,7 @@ weight: 70
 
 ---
 #### Foundation of Big Data Analytics (Spring 2021) ####
-[Residental College Academic Tutorials](https://mlc.rc.um.edu.mo/), [Ma Man Kei and Lo Pak Sam College](https://mlc.rc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/)  <br>
+Residental College Academic Tutorials, Ma Man Kei and Lo Pak Sam College, University of Macau <br>
 _Undergraduate Student Montor_, with Professor [Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) <br>
-
+{{% staticref "uploads/teaching.pdf" "newtab" %}}Course Poster{{% /staticref %}}, [Online Textbook](https://r4ds.had.co.nz)
 
