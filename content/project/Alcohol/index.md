@@ -1,6 +1,6 @@
 ---
-title: Wages and Alcohol Consumption in China: A Cross-sectional Analayis from China Health and Nutrition Survey (CHNS) 2015
-#summary: Course Project in _ECON3020 Social Sciences Research Project I_ (With Zhentong Chen, Chenxiao Xie, and Ziyi Yang)
+title: Wages and Alcohol Consumption in China A Cross-sectional Analayis from China Health and Nutrition Survey (CHNS) 2015
+summary: Course Project in _ECON3020 Social Sciences Research Project I_ (With Zhentong Chen, Chenxiao Xie, and Ziyi Yang)
 #tags:
 #- Intergenerational Economic Inequality
 date: "2016-02-27T00:00:00Z"
