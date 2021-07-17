@@ -15,8 +15,8 @@ weight: 70
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 ---
-#### Foundation of Big Data Analytics (Spring 2021)
-Residental College Academic Tutorials, Ma Man Kei and Lo Pak Sam College, University of Macau 
-_Student Montor_, with Professor [Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) 
+#### Foundation of Big Data Analytics (Spring 2021) ####
+[Residental College Academic Tutorials](https://mlc.rc.um.edu.mo/), [Ma Man Kei and Lo Pak Sam College](https://mlc.rc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/)  <br>
+_Undergraduate Student Montor_, with Professor [Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) <br>
 
 
