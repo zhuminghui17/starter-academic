@@ -18,7 +18,7 @@ bio: Hi there!
 
 # Interests to show in About widget
 interests:
-- Computational Social Sciences
+- Computational Social Science
 - Quantitative Methods
 - Political Economy
 
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zhuminghui17@gmail.com'
+  link: "mailto:zhuminghui17@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MinghuiZhu4
@@ -67,7 +67,7 @@ highlight_name: false
 
 Welcome! I am a rising senior student from the Faculty of Social Sciences, [University of Macau](https://www.um.edu.mo/). I am majoring in Economics and taking advanced seminars in Politcal Science. I also studied in [University of Leeds](https://www.leeds.ac.uk/) (2019) and [Peking University](pku.edu.cn) (2021) as summer exchange student.
 
-I am working as Research Assistant to Professor [Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) with rich experiences in data collection, cleaning and analysis using *R*. Currently I am working on projects regarding *intergenerational economic inequality* with various valuable datasets. I also worked as Research Intern at [National Survey Research Center at Renmin Univeristy of China](http://nsrc.ruc.edu.cn/) in December 2020.
+I am working as Research Assistant to Professor [Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) with rich experiences in data collection, cleaning and analysis using *R*. Currently I am working on projects regarding *intergenerational economic inequality* with various valuable datasets. I also worked as Research Intern at [National Survey Research Center at Renmin Univeristy of China](http://nsrc.ruc.edu.cn/) on China Education Panel Studies (CEPS) in December 2020.
 
 While I am currently on 21/22 Master/Ph.D application cycle, I am also looking for full-time RA positions starting from January 2022! Please feel free to reach me at zhuminghui17@gmail.com.
 
