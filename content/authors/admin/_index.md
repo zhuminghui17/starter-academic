@@ -14,7 +14,7 @@ organizations:
   url: https://www.um.edu.mo/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome! I am a Research Assistant to Professor Tao LI and a rising senior student at University of Macau. I am currently on the 2021-2022 Ph.D. application cycle.
+bio: Hi there!
 
 # Interests to show in About widget
 interests:
