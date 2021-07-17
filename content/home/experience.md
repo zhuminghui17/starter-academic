@@ -25,10 +25,10 @@ experience:
   - title: Vice President
     company: China Mainland Students' Association, University of Macau Student Union
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-cmsa
     location: Taipa, Macau
     date_start: '2019-08-01'
-    date_end: ''
+    date_end: '2020-12-31'
     description: |2-
 #        Responsibilities include:
 #        
@@ -40,7 +40,7 @@ experience:
   - title: Resident Assistant
     company: Lui Che Woo College, University of Macau
     company_url: ''
-    company_logo: org-x
+    company_logo: org-lcwc
     location: Taipa, Macau
     date_start: '2019-08-01'
     date_end: '2020-06-30'
@@ -49,7 +49,7 @@ experience:
   - title: Leader
     company: LCWC Japan Exchange Program
     company_url: ''
-    company_logo: org-x
+    company_logo: org-lcwc
     location: Taipa, Tokyo, Japan
     date_start: '2019-02-01'
     date_end: '2020-07-07'
