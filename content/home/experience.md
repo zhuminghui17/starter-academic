@@ -25,7 +25,7 @@ experience:
   - title: Vice President
     company: China Mainland Students' Association, University of Macau Student Union
     company_url: ''
-    company_logo: org-c
+    company_logo: cmsa
     location: Taipa, Macau
     date_start: '2019-08-01'
     date_end: '2020-12-31'
@@ -40,7 +40,7 @@ experience:
   - title: Resident Assistant
     company: Lui Che Woo College, University of Macau
     company_url: ''
-    company_logo: org-l
+    company_logo: lcwc
     location: Taipa, Macau
     date_start: '2019-08-01'
     date_end: '2020-06-30'
@@ -49,8 +49,8 @@ experience:
   - title: Leader
     company: LCWC Japan Exchange Program
     company_url: ''
-    company_logo: org-l
-    location: Taipa, Tokyo, Japan
+    company_logo: lcwc
+    location: Tokyo, Japan
     date_start: '2019-02-01'
     date_end: '2020-07-07'
 #    description: Taught electronic engineering and researched semiconductor physics.
