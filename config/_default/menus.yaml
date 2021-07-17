@@ -8,13 +8,13 @@ main:
     url: '#about'
     weight: 10
   - name: Research
-    url: '#posts'
+    url: '#projects'
     weight: 20
   - name: Teaching
-    url: '#projects'
+    url: '#teaching'
     weight: 30
   - name: Leadership
-    url: '#talks'
+    url: '#posts'
     weight: 40
   - name: CV
     url: uploads/CV_Zhu Minghui.pdf
