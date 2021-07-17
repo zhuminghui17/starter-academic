@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: B.S.s in Economics
+  - course: B.S.Sc in Economics
     institution: University of Macau
     year: Expected 2022
  
