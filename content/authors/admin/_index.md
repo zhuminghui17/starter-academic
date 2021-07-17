@@ -35,9 +35,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '/#contact'
+- icon: envelope
+  icon_pack: fas
+  link: 'zhuminghui17@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MinghuiZhu4
@@ -49,7 +49,7 @@ social:
   link: https://github.com/zhuminghui17
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/minghui-zhu-6629bb18a
+  link: https://www.linkedin.com/in/minghui-zhu-6629bb18a/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,6 +69,6 @@ Welcome! I am a rising senior student from the Faculty of Social Sciences, Unive
 
 I am working as Research Assistant to Professor [Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) with rich experiences in data collection, cleaning and analysis using R. Currently I am working on projects regarding *intergenerational economic inequality* with various valuable datasets. I also worked as Research Intern at [National Survey Research Center at Renmin Univeristy of China](http://nsrc.ruc.edu.cn/) in December 2020.
 
-I am currently looking for full-time RA positions starting from January 2022! Please feel free to reach me at zhuminghui17 ### gmail.com.
+I am currently looking for full-time RA positions starting from January 2022! Please feel free to reach me at zhuminghui17@gmail.com.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Zhu Minghui.pdf" "newtab" >}}CV{{< /staticref >}}.
