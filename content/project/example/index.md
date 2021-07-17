@@ -1,6 +1,6 @@
 ---
 title: Surname Project
-summary: Use the elites' surnames distribution from different periods in Zhejiang, China.
+summary: Use the elites' surnames distribution from different periods in Zhejiang, China (With Professor Tao LI).
 #tags:
 #- Intergenerational Economic Inequality
 date: "2016-04-27T00:00:00Z"
@@ -27,7 +27,7 @@ external_link: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
-With Professor Tao LI.
+To be uploaded.

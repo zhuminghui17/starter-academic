@@ -1,7 +1,7 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: featured content
 
 # This file represents a page section.
 headless: true
@@ -34,7 +34,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
