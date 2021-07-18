@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Vice President
+  - title: Vice President, Event Director in Chief
     company: China Mainland Students' Association, University of Macau Student Union
     company_url: ''
     company_logo: cmsa
