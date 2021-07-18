@@ -24,7 +24,7 @@ featured: false
 image:
   caption: 'Er Hai'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 #authors:
@@ -39,7 +39,7 @@ tags:
 ---
 
 ![1](1.jpg)
-![2](2.jpg)
+![[2](2.jpg)
 ![3](3.jpg)
 ![4](4.jpg)
 ![5](5.jpg)
