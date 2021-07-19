@@ -38,8 +38,8 @@ tags:
 - Domestic
 ---
 
-{{< figure src="1.jpg" title="" lightbox="true" >}}
-Arriving at Kunming International Airport. Sunset at 8pm.
+{{< figure src="1.jpg" title="" caption="Arriving at Kunming International Airport. Sunset at 8pm." lightbox="true" >}}
+
 
 {{< figure src="2.jpg" title="" lightbox="true" >}}
 Erhai Lake @ Dali.
