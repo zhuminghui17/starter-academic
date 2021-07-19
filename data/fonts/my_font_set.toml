@@ -2,10 +2,10 @@
 name = "Nunito"
 
 # Optional Google font URL
-google_fonts = "family=Nunito"
+google_fonts = "family=Montserrat:wght@400;500"
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Roboto"
+body_font = "Montserrat"
 nav_font = "Roboto"
 mono_font = "Roboto Mono"

@@ -14,7 +14,7 @@ organizations:
   url: https://www.um.edu.mo/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi there!
+#bio: Hi there!
 
 # Interests to show in About widget
 interests:
