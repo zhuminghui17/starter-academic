@@ -2,10 +2,10 @@
 name = "Montserrat"
 
 # Optional Google font URL
-google_fonts = "family=Montserrat:wght@500"
+google_fonts = "family=Montserrat:wght@400;500"
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Montserrat"
-nav_font = "Montserrat"
-mono_font = "Montserrat"
+heading_font = "Montserrat:wght@400"
+body_font = "Montserrat:wght@500"
+nav_font = "Montserrat:wght@500"
+mono_font = "Montserrat:wght@500"
