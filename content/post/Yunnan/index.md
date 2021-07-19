@@ -38,17 +38,8 @@ tags:
 - Domestic
 ---
 
-{{< gallery album="albums_yunnan" >}}
-# ![1](1.jpg)
-# ![2](2.jpg)
-# ![3](3.jpg)
-# ![5](5.jpg)
-# ![6](6.jpg)
+{{< figure src="1.jpg" title="" lightbox="true" >}}
+Arriving at Kunming International Airport. Sunset at 8pm.
 
-gallery_item:
-- album: albums_yunnan
-  image: 1.jpg
-  caption: Arriving at Kunming Airport. Sunnet at 8 p.m.
-- album: albums_yunnan
-  image: 2.jpg
-  caption: Erhai Lake @ Dali.
+{{< figure src="2.jpg" title="" lightbox="true" >}}
+Erhai Lake @ Dali.
