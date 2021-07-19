@@ -33,12 +33,12 @@ image:
 #authors:
 #- admin
 
-tags:
-- wenyu
+#tags:
+#- wenyu
 
 
 #categories:
-- Domestic
+#- Domestic
 ---
 
 {{< figure src="1.jpg" title="" caption="Arriving at Kunming International Airport. Sunset at 8pm." lightbox="true" >}}
@@ -50,9 +50,12 @@ tags:
 
 {{< figure src="4.jpg" title="" caption="Mirror Image of Erhai Lake" lightbox="true" >}}
 
+{{< figure src="erhai.jpg" title="Erhai Lake. Taken from my roll film camera." caption="" lightbox="true" >}}
+
 {{< figure src="5.jpg" title="" caption="Streching!" lightbox="true" >}}
 
-#{{< figure src="6.jpg" title="" caption="" lightbox="true" >}}
-#{{< figure src=".jpg" title="" caption="" lightbox="true" >}}
+{{< figure src="me_erhai.jpg" title="" caption="Me by Erhai Lake. Feeling like I'm in Greece." lightbox="true" >}}
+
+{{< figure src="6.jpg" title="" caption="Mount. Yulong. Elevation: 5,596 m" lightbox="true" >}}
 
 
