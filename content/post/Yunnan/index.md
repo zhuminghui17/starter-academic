@@ -21,10 +21,10 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Er Hai'
-  focal_point: ""
-  placement: 1
+#image:
+#  caption: 'Er Hai'
+#  focal_point: ""
+#  placement: 1
   preview_only: false
 
 #authors:
@@ -38,8 +38,17 @@ tags:
 - Domestic
 ---
 
-![1](1.jpg)
-![3](3.jpg)
-![5](5.jpg)
-![6](6.jpg)
+{{< gallery album="<albums_yunnan>" >}}
+# ![1](1.jpg)
+# ![2](2.jpg)
+# ![3](3.jpg)
+# ![5](5.jpg)
+# ![6](6.jpg)
 
+gallery_item:
+- album: <albums_yunnan>
+  image: <1>.jpg
+  caption: Arriving at Kunming Airport. Sunnet at 8 p.m.
+- album: <albums_yunnan>
+  image: <2>.jpg
+  caption: Erhai Lake @ Dali.
