@@ -72,5 +72,3 @@ I am working as Research Assistant to Professor [Tao LI](https://www.um.edu.mo/f
 Aiming to promote **R** and data analysis skills in the university, I also served as Student Mentor for [*Big Data Analysis Foundation*](#teaching) in Spring 2021, a pivot course under [Residental College Academic Tutorials (RCAT) Programmes](https://rc.um.edu.mo/rc-academic-matters/rcat-programmes/) at University of Macau.  
 
 While I am on 21/22 Master/Ph.D application cycle, I am also looking for full-time RA positions starting from January 2022! Please feel free to reach me at zhuminghui17@gmail.com.
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Zhu Minghui.pdf" "newtab" >}}CV{{< /staticref >}}.
