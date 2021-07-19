@@ -1,6 +1,6 @@
 ---
 title: Surname Project
-summary: keywords: Intergenerational Economic Inequality, Education Elites 
+summary: keywords- Intergenerational Economic Inequality, Education Elites 
 #tags:
 #- Intergenerational Economic Inequality
 date: "2021-07-17T00:00:00Z"
