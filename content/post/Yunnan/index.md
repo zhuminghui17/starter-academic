@@ -42,10 +42,6 @@ image:
 ---
 (Not my) Graduation Trip! My most beloved friends and I had a unforgottable trip in Yunnan, almost the most southwestern area of China after we finished this spring semester, and three out of us just graduated! We went to Dali, Lijiang and Kunming in one week. Check it out!  
 
-# Video
-#{{< youtube xqusvWdzxWI >}}
-
-# Photos
 {{< figure src="1.jpg" title="" caption="Arriving at Kunming International Airport. Sunset at 8pm." lightbox="true" >}}
 
 
