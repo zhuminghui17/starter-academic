@@ -1,9 +1,9 @@
 ---
-title: Surname Project
+title: Gaokao Project
 summary: Upcoming!
 #tags:
 #- Intergenerational Economic Inequality
-date: "2021-07-17T00:00:00Z"
+date: "2021-06-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

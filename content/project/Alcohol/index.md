@@ -3,7 +3,7 @@ title: Wages and Alcohol Consumption in China A Cross-sectional Analayis from Ch
 summary: Course Project in _ECON3020 Social Sciences Research Project I_ (With Zhentong Chen, Chenxiao Xie, and Ziyi Yang)
 #tags:
 #- Intergenerational Economic Inequality
-date: "2016-02-27T00:00:00Z"
+date: "2021-02-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
