@@ -65,10 +65,10 @@ email: ""
 highlight_name: false
 ---
 
-Welcome! I am a rising senior student from [Faculty of Social Sciences](https://fss.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). I major in Economics and take advanced seminars in Politcal Science and Methodology. I also studied as a sponsored summer exchange student in [University of Leeds](https://www.leeds.ac.uk/) (2019) and [Peking University](https://english.pku.edu.cn/) (2021).
+Welcome! I am a rising senior student from [Faculty of Social Sciences](https://fss.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). I major in Economics and take advanced seminars in Politcal Science and Methodology. I also studied as a sponsored summer exchange student at [University of Leeds](https://www.leeds.ac.uk/) (2019) and [Peking University](https://english.pku.edu.cn/) (2021).
 
 I am working as Research Assistant to Professor [Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) with rich experiences in data collection, cleaning and analysis using **R**. Currently I am researching on projects regarding *intergenerational economic inequality* with various datasets. I also worked as Research Intern at [National Survey Research Center at Renmin Univeristy of China](http://nsrc.ruc.edu.cn/) on [China Education Panel Studies (CEPS)](http://ceps.ruc.edu.cn/English/Home.htm) in 2020.
 
-Aiming to promote **R** and data analysis skills in the university, I also served as Student Mentor for [*Big Data Analysis Foundation*](#teaching) in Spring 2021, a pivot course under [Residental College Academic Tutorials (RCAT) Programmes](https://rc.um.edu.mo/rc-academic-matters/rcat-programmes/) at University of Macau.  
+Aiming to promote **R** and data analysis skills in the university, I also served as Undergraduate Student Mentor for [*Big Data Analysis Foundation*](#teaching) in Spring 2021, a pivot course under [Residental College Academic Tutorials (RCAT) Programmes](https://rc.um.edu.mo/rc-academic-matters/rcat-programmes/) at University of Macau.  
 
 While I am on 22 Fall MA/MSc/MPhil application cycle, I am also looking for full-time RA positions starting from January 2022! Please feel free to reach me at zhuminghui17@gmail.com.
