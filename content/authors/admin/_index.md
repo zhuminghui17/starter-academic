@@ -27,7 +27,7 @@ education:
   courses:
   - course: B.S.Sc in Economics
     institution: University of Macau
-    year: Expected 2022
+    year: Expected 22'
  
 
 # Social/Academic Networking
