@@ -25,7 +25,7 @@ featured: false
 #  caption: 'Er Hai'
 #  focal_point: ""
 #  placement: 1
-  preview_only: false
+#  preview_only: false
 
 #authors:
 #- admin
