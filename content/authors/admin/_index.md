@@ -19,7 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Computational Social Science
-- Quantitative Methods
+- Quantitative Research Methods
 - Political Economy
 
 # Education to show in About widget
@@ -27,7 +27,7 @@ education:
   courses:
   - course: B.S.Sc in Economics
     institution: University of Macau
-    year: Expected 22'
+    year: *Expected 22'*
  
 
 # Social/Academic Networking
