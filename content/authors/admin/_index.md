@@ -73,4 +73,4 @@ Aiming to promote **R** and data analysis skills in the university, I also serve
 
 While I am on 21/22 Master/Ph.D application cycle, I am also looking for full-time RA positions starting from January 2022! Please feel free to reach me at zhuminghui17@gmail.com.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Zhu Minghui.pdf" "newtab" >}}CV{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Zhu Minghui.pdf" "newtab" >}}CV{{< /staticref >}}.
