@@ -5,7 +5,7 @@ title: Guangzhou, Oct. 2020
 # summary: 
 
 #tag
-tags: [China, Hangzhou, Greater Bay Area, Wenyu!]
+tags: [China, Guangzhouu, Greater Bay Area, Wenyu!]
 
 # Link this post with a project
 projects: []
@@ -40,6 +40,3 @@ image:
 #categories:
 #- Domestic
 ---
-
-
-
