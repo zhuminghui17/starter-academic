@@ -2,7 +2,7 @@
 title: Yunnan, June 2021
 
 # Summary for listings and search engines
-#summary: (Not my) Graduation Trip! My most beloved friends and I had a unforgottable trip in Yunnan, almost the most southwestern area of China after we finished this spring semester, and three out of us just graduated! We went to Dali, Lijiang and Kunming in one week. Check it out!  
+# summary  (Not my) Graduation Trip! My most beloved friends and I had a unforgottable trip in Yunnan, almost the most southwestern area of China after we finished this spring semester, and three out of us just graduated! We went to Dali, Lijiang and Kunming in one week. Check it out!  
 
 #tag
 tags: [China, Wenyu]

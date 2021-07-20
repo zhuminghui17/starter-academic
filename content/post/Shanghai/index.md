@@ -11,10 +11,10 @@ tags: [China, Shanghai]
 projects: []
 
 # Date published
-date: "2021-07-10T00:00:00Z"
+date: "2020-07-10T00:00:00Z"
 
 # Date updated
-lastmod: "2021-06-11T00:00:00Z"
+lastmod: "2020-07-11T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false

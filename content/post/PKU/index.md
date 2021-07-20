@@ -2,7 +2,7 @@
 title: Peking University (PKU), July 2021
 
 # Summary for listings and search engines
-#summary: I attended a summer school in Peking University, the best university in China. Check it out!
+# Summary I attended a summer school in Peking University, the best university in China. Check it out!
 
 #tag
 tags: [China, University, Beijing]
