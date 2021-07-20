@@ -2,7 +2,7 @@
 title: Peking University (PKU), July 2021
 
 # Summary for listings and search engines
-summary: I attended a summer school in Peking University, the best university in China. Check it out!
+#summary: I attended a summer school in Peking University, the best university in China. Check it out!
 
 #tag
 tags: [China, University, Beijing]
@@ -40,6 +40,8 @@ image:
 #categories:
 #- Domestic
 ---
+
+I attended a summer school in Peking University, the best university in China. Check it out!
 
 {{< figure src="sunset_lake.jpg" title="" caption="Sunset at [Weiming Lake](https://maps.google.com?q=Weiming%20Lake,%20Haidian%20District,%20China&ftid=0x35f056b10cc7b31b:0xf0e97f855f54abab&hl=en-CN&gl=cn&entry=gps&lucs=s2se). Graduates were taking photoes as well." lightbox="true" >}}
 

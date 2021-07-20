@@ -1,11 +1,11 @@
 ---
-title: Beijing Memories, July 2021
+title: Guangzhou, Oct. 2020
 
 # Summary for listings and search engines
 # summary: 
 
 #tag
-tags: [China, Beijing, Wenyu!]
+tags: [China, Hangzhou, Greater Bay Area, Wenyu!]
 
 # Link this post with a project
 projects: []
@@ -25,7 +25,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Cococean with you'
+  caption: 'Video Poster'
   focal_point: ""
   placement: 1
   preview_only: true

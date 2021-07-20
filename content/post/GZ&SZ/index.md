@@ -5,7 +5,7 @@ title: Guangzhou & Shenzhen, January 2021
 # summary: 
 
 #tag
-tags: [China, Guangzhou, Shenzhen, Great Bay Area]
+tags: [China, Guangzhou, Shenzhen, Greater Bay Area]
 
 # Link this post with a project
 projects: []
