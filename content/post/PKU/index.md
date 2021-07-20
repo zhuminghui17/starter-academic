@@ -41,11 +41,10 @@ image:
 #- Domestic
 ---
 
-{{< figure src="sunset_lake.jpg" title="" caption="Sunset at Weiming Lake. Graduates were taking photoes as well." lightbox="true" >}}
+{{< figure src="sunset_lake.jpg" title="" caption="Sunset at [Weiming Lake](https://maps.google.com?q=Weiming%20Lake,%20Haidian%20District,%20China&ftid=0x35f056b10cc7b31b:0xf0e97f855f54abab&hl=en-CN&gl=cn&entry=gps&lucs=s2se). Graduates were taking photoes as well." lightbox="true" >}}
 
+{{< figure src="classroom.jpg" title="" caption="[Lijiao](https://goo.gl/maps/Xfd4o4dSfmYA7ASr8) 406. Dream Classroom with huge french windows." lightbox="true" >}}
 
-{{< figure src="classroom.jpg" title="" caption="Lijiao 406. Dream Classroom with huge french windows." lightbox="true" >}}
-
-
+{{< figure src="badge.jpg" title="" caption="PKU Logo @ [Jingyuan](https://goo.gl/maps/hUV9fKePGor3biUn8)." lightbox="true" >}}
 
 
