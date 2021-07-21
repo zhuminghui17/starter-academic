@@ -1,20 +1,20 @@
 ---
-title: Xiamen, April 2021
+title: Xi'an, Jan. 2020
 
 # Summary for listings and search engines
 # summary: 
 
 #tag
-tags: [China, Xiamen]
+tags: [China, Xi'an]
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2021-04-10T00:00:00Z"
+date: "2020-01-10T00:00:00Z"
 
 # Date updated
-lastmod: "2021-04-11T00:00:00Z"
+lastmod: "2020-01-11T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
