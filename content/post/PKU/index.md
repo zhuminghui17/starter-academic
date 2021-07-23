@@ -27,8 +27,8 @@ featured: false
 image:
   caption: 'PKU Spirit: Patriotism, Progress, Democracy and Science'
   focal_point: ""
-  placement: 2
-  preview_only: false
+  placement: 1
+  preview_only: true
 
 #authors:
 #- admin
@@ -40,6 +40,8 @@ image:
 #categories:
 #- Domestic
 ---
+
+{{< figure src="featured.jpg" title="" caption="PKU Spirit: Patriotism, Progress, Democracy and Science" lightbox="true" >}}
 
 {{< figure src="sunset_lake.jpg" title="" caption="Sunset at [Weiming Lake](https://maps.google.com?q=Weiming%20Lake,%20Haidian%20District,%20China&ftid=0x35f056b10cc7b31b:0xf0e97f855f54abab&hl=en-CN&gl=cn&entry=gps&lucs=s2se). Graduates were taking photoes as well." lightbox="true" >}}
 
