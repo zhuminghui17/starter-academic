@@ -27,7 +27,7 @@ featured: false
 image:
   caption: 'PKU Spirit: Patriotism, Progress, Democracy and Science'
   focal_point: ""
-  placement: 1
+  placement: 2
   preview_only: false
 
 #authors:
