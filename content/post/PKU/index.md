@@ -50,7 +50,7 @@ image:
 
 {{< figure src="badge.jpg" title="" caption="PKU Logo @ [Jingyuan](https://goo.gl/maps/hUV9fKePGor3biUn8)." lightbox="true" >}}
 
-{{< figure src="cat.jpg" title="" caption="Cat Beside [PKU Gymnasium No.2](https://goo.gl/maps/vdZXX8Gm8femMtoKA)." lightbox="true" >}}
+{{< figure src="cat.jpg" title="" caption="Cat Beside [PKU Gymnasium No.2](https://goo.gl/maps/vdZXX8Gm8femMtoKA)." lightbox="true" rotate="90" >}}
 
 {{< figure src="boyata.jpg" title="" caption="[Bo Ya Ta](https://goo.gl/maps/HJFRHRSz45cM72Hm8)" lightbox="true" >}}
 
