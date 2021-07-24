@@ -29,6 +29,7 @@ image:
   focal_point: ""
   placement: 1
   preview_only: true
+  image-orientation: from-image
 
 #authors:
 #- admin
@@ -53,7 +54,7 @@ image:
 
 {{< figure src="boyata.jpg" title="" caption="[Bo Ya Ta](https://goo.gl/maps/HJFRHRSz45cM72Hm8)" lightbox="true" >}}
 
-{{< figure src="watching_sunset.jpg" title="" caption="Watching Sunset @ [Weiming Lake](https://maps.google.com?q=Weiming%20Lake,%20Haidian%20District,%20China&ftid=0x35f056b10cc7b31b:0xf0e97f855f54abab&hl=en-CN&gl=cn&entry=gps&lucs=s2se) " lightbox="true" >}}
+{{< figure src="watching_sunset.jpg" title="" caption="Watching Sunset @ [Weiming Lake](https://maps.google.com?q=Weiming%20Lake,%20Haidian%20District,%20China&ftid=0x35f056b10cc7b31b:0xf0e97f855f54abab&hl=en-CN&gl=cn&entry=gps&lucs=s2se) " lightbox="true"  >}}
 
 {{< figure src="walking_into_sunset.jpg" title="" caption="Walking into Sunset" lightbox="true" >}}
 
