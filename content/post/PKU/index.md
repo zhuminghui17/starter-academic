@@ -1,5 +1,6 @@
 ---
 title: Peking University (PKU), July 2021
+thumbnail: "page_folder/featured.jpg"
 
 # Summary for listings and search engines
 # summary:
@@ -24,11 +25,11 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'PKU Spirit: Patriotism, Progress, Democracy and Science'
-  focal_point: ""
-  placement: 3
-  preview_only: true
+#image:
+#  caption: 'PKU Spirit: Patriotism, Progress, Democracy and Science'
+#  focal_point: ""
+#  placement: 2
+#  preview_only: true
 
 #authors:
 #- admin
