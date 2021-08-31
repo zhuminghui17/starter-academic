@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:zhuminghui17@gmail.com"
+  link: "mailto:minghui.zhu@connect.um.edu.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MinghuiZhu4
