@@ -20,7 +20,7 @@ main:
     url: '#posts'
     weight: 50
   - name: CV
-    url: uploads/CV_Zhu Minghui.pdf
+    url: '#cv'
     weight: 60
 #  - name: Contact
 #    url: '#contact'

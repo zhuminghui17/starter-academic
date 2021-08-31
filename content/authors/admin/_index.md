@@ -18,9 +18,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Computational Social Science
-- Quantitative Research Methods
+- Quantitative Methods
 - Political Economy
+- Educational Policy
 
 # Education to show in About widget
 education:
@@ -65,10 +65,10 @@ email: ""
 highlight_name: false
 ---
 
-Welcome! I am a rising senior student from [Faculty of Social Sciences](https://fss.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). I major in Economics and take advanced seminars in Political Science and Methodology. I also studied as a sponsored summer exchange student at [University of Leeds](https://www.leeds.ac.uk/) (2019) and [Peking University](https://english.pku.edu.cn/) (2021).
+Welcome! I am a senior student from [Faculty of Social Sciences](https://fss.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). I major in Economics and take advanced seminars in Political Science and Methodology. I also studied as a sponsored summer exchange student at [University of Leeds](https://www.leeds.ac.uk/) (2019) and [Peking University](https://english.pku.edu.cn/) (2021).
 
-I am a Research Assistant working under the advisement of [Professor Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) with rich experiences in data collection, cleaning, and analysis using {{< icon name="r-project" pack="fab" >}} . Currently I focus on projects regarding *intergenerational economic inequality* with various datasets. I also worked as Research Intern at [National Survey Research Center at Renmin University of China](http://nsrc.ruc.edu.cn/) on [China Education Panel Studies (CEPS)](http://ceps.ruc.edu.cn/English/Home.htm) in 2020.
+I am a Undergraduate Researcher working under the advisement of [Professor Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) with rich experiences in data collection, cleaning, and analysis using {{< icon name="r-project" pack="fab" >}} . Currently I focus on projects regarding *intergenerational economic inequality* with various datasets. I also worked as Research Intern at [National Survey Research Center at Renmin University of China](http://nsrc.ruc.edu.cn/) on [China Education Panel Studies (CEPS)](http://ceps.ruc.edu.cn/English/Home.htm) in 2020.
 
-Aiming to promote {{< icon name="r-project" pack="fab" >}}  and data analysis skills in the university, I also served as Undergraduate Student Mentor for [*Big Data Analysis Foundation*](#teaching) in Spring 2021, a pilot course under [Residental College Academic Tutorials (RCAT) Programmes](https://rc.um.edu.mo/rc-academic-matters/rcat-programmes/) at University of Macau.  
+Aiming to promote {{< icon name="r-project" pack="fab" >}}  and data analysis skills in the university, I also served as Undergraduate Teaching Assistant for [*Big Data Analysis Foundation*](#teaching) in Spring 2021, a pilot course under [Residental College Academic Tutorials (RCAT) Programmes](https://rc.um.edu.mo/rc-academic-matters/rcat-programmes/) at University of Macau.  
 
-While I am on 22 Fall MA/MSc/MPhil application cycle, I am also looking for full-time RA positions starting from January 2022! Please feel free to reach me at zhuminghui17@gmail.com.
+While I am on 2021/22 Fall MA/MSc/MPhil application cycle, I am also looking for RA positions in Summer 2022! Please feel free to reach me at minghui.zhu@connect.um.edu.mo.
