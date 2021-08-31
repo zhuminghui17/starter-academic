@@ -17,8 +17,8 @@ main:
     url: '#experience'
     weight: 40
   - name: Resources
-    url: '#pages/resouces'
-    weight: 50
+    url: '#pages/resources'
+    weight: 60
   - name: CV
     url: '#cv'
     weight: 50
