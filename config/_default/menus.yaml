@@ -20,7 +20,7 @@ main:
     url: '/pages/resources'
     weight: 50
   - name: CV
-    url: '#cv'
+    url: '/pages/cv'
     weight: 60
 #  - name: Contact
 #    url: '#contact'
