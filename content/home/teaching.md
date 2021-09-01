@@ -20,9 +20,8 @@ Residental College Academic Tutorials, Ma Man Kei and Lo Pak Sam College, Univer
 _Undergraduate Student Mentor_, with Professor [Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) <br>
 {{% staticref "uploads/teaching.pdf" "newtab" %}}Course Poster{{% /staticref %}}, [Online Textbook](https://r4ds.had.co.nz)
 
-Responsibilities include:
+- My responsibilities include:
         
-        * Led Recreation Department, Member Affairs Department, and Arts Group, chaired 20+ committee meetings 
-        * Directed and coordinated 6 large-scale recreational events, earning _Best Student Activity Award_
-        * Drafted and undertook surveys, reported students' feedbacks (100+ observations) on online teaching during Covid-19
-        * Upgraded online media platform operations during Covid-19, honoring _Best Student Organization Award_
+ - Devised and led weekly lectures and discussions covering: **basic programming**; **data visualization**; **regression analysis with R**; distributed and collected assignments; answered questions (50+ consulting hours) 
+ - Designed questionnaires to survey students' feedbacks on teaching quality and effectiveness of collaborative learning
+        
