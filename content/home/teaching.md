@@ -17,8 +17,8 @@ weight: 70
 ---
 #### Big Data Analysis Foundation (Spring 2021) ####
 Residental College Academic Tutorials, Ma Man Kei and Lo Pak Sam College, University of Macau <br>
-_Undergraduate Student Mentor_, with Professor [Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) <br>
-{{% staticref "uploads/teaching.pdf" "newtab" %}}Course Poster{{% /staticref %}}, [Online Textbook](https://r4ds.had.co.nz)
+_Teaching Assistant_, with Professor [Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) <br>
+{{% staticref "uploads/teaching_poster.pdf" "newtab" %}}Course Poster{{% /staticref %}}, [Online Textbook](https://r4ds.had.co.nz), {{% staticref "uploads/teaching_certificate.pdf" "newtab" %}}My Certificate (in Chinese){{% /staticref %}}
 
 - My responsibilities include:
         
