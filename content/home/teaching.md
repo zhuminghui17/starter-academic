@@ -19,9 +19,4 @@ weight: 70
 Residental College Academic Tutorials, Ma Man Kei and Lo Pak Sam College, University of Macau <br>
 _Teaching Assistant_, with Professor [Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) <br>
 {{% staticref "uploads/teaching_poster.pdf" "newtab" %}}Course Poster{{% /staticref %}}, [Online Textbook](https://r4ds.had.co.nz), {{% staticref "uploads/teaching_certificate.pdf" "newtab" %}}My Certificate (in Chinese){{% /staticref %}}
-
-#- My responsibilities include:
-# - Devised and led weekly lectures and discussions covering: **basic programming**; **data visualization**; **regression analysis with R**;
-# - Distributed and collected assignments; answered questions (50+ consulting hours) 
-# - Designed questionnaires to survey students' feedbacks on teaching quality and effectiveness of collaborative learning
         
