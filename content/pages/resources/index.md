@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Academic Resources
 summary: I will list academic resources I recommand here.
 date: "2018-06-28T00:00:00Z"
 
@@ -14,7 +14,8 @@ header:
   image: ""
 ---
 
-### R ###
+I will list academic resources that I recommend in following toggle lists.
+
 {{< spoiler text="**R**" >}}
 - **R Programming**
   - [R for Data Science](https://r4ds.had.co.nz/)
@@ -31,6 +32,7 @@ header:
 - **Data Visualization in R**
 
 {{< /spoiler >}}
+
 
 {{< spoiler text="**MA/MSc/MPhil/PhD Application Related**" >}}
 - Application Guide
