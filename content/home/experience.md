@@ -45,7 +45,10 @@ experience:
     location: Taipa, Macau
     date_start: '2019-08-01'
     date_end: '2020-06-30'
-    description: Organized 10+ student activities respecting global perspectives, knowledge integration, and cultural engagement, successfully attracting more than 1000+ attendees in total  
+    description: |2- 
+        Responsibilities include:
+        
+        * Organized 10+ student activities respecting global perspectives, knowledge integration, and cultural engagement, successfully attracting more than 1000+ attendees in total  
 
   - title: Leader
     company: Japan Visiting Program, University of Macau - University of Tokyo & Teikyo University
@@ -69,7 +72,7 @@ experience:
     location: Taipa, Macau
     date_start: '2018-12-01'
     date_end: '2018-12-07'
-    description: 
+    description:  |2-
         Responsibilities include:
         
         * Discussed Chinese society with 100+ outstanding student representatives of universities from Mainland China
@@ -81,7 +84,7 @@ experience:
     location: Ching Rai, Thailand
     date_start: '2018-12-01'
     date_end: '2018-12-07'
-    description: 	
+    description:  2|- 	
         Responsibilities include:
         
         * Conducted village teaching and paved the road for local infrastructure construction (100+ hours)
