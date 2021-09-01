@@ -72,7 +72,7 @@ experience:
     location: Taipa, Macau
     date_start: '2018-12-01'
     date_end: '2018-12-07'
-    description:  |2-
+    description: |2-
         Responsibilities include:
         
         * Discussed Chinese society with 100+ outstanding student representatives of universities from Mainland China
@@ -84,7 +84,7 @@ experience:
     location: Ching Rai, Thailand
     date_start: '2018-12-01'
     date_end: '2018-12-07'
-    description:  2|- 	
+    description: |2- 	
         Responsibilities include:
         
         * Conducted village teaching and paved the road for local infrastructure construction (100+ hours)
