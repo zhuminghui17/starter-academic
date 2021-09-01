@@ -1,6 +1,6 @@
 ---
 title: Academic Resources
-summary: I will list academic resources I recommand here.
+summary: ""
 date: "2018-06-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -14,9 +14,9 @@ header:
   image: ""
 ---
 
-I will list academic resources that I recommend in following toggle lists.
+I will list online academic resources (free!) that I recommend in following toggle lists.
 
-{{< spoiler text="**R**" >}}
+{{< spoiler text="**Data Analysis with R**" >}}
 - **R Programming**
   - [R for Data Science](https://r4ds.had.co.nz/)
   - [Advanced R](https://adv-r.hadley.nz/)
@@ -30,7 +30,7 @@ I will list academic resources that I recommend in following toggle lists.
   - [Geocomputation with R](https://geocompr.robinlovelace.net/)
 
 - **Data Visualization in R**
-
+  - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 {{< /spoiler >}}
 
 
