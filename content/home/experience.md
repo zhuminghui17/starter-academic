@@ -27,14 +27,15 @@ experience:
     company_url: ''
     company_logo: cmsa
     location: Taipa, Macau
-    date_start: '2019-08-01'
+    date_start: '2020-01-01'
     date_end: '2020-12-31'
     description: |2-
-#        Responsibilities include:
-#        
-#        * Lead Recreation Department, Member Affairs Department and Arts Group
-#        * Coordinate 6 large-scale recreational events with more than 90% attendance rate, earning _Most Favorite Student Activity Award 2020_
-#        * Upgrade online platform operations during Covid-19, honoring Most _Favorite Student Organization Award 2020_
+        Responsibilities include:
+        
+        * Led Recreation Department, Member Affairs Department, and Arts Group, chaired 20+ committee meetings 
+        * Directed and coordinated 6 large-scale recreational events, earning _Best Student Activity Award_
+        * Drafted and undertook surveys, reported students' feedbacks (100+ observations) on online teaching during Covid-19
+        * Upgraded online media platform operations during Covid-19, honoring _Best Student Organization Award_
 
         
   - title: Resident Assistant
@@ -44,25 +45,40 @@ experience:
     location: Taipa, Macau
     date_start: '2019-08-01'
     date_end: '2020-06-30'
-#    description: Taught electronic engineering and researched semiconductor physics.
+    description: Organized 10+ student activities respecting global perspectives, knowledge integration, and cultural engagement, successfully attracting more than 1000+ attendees in total  
 
   - title: Leader
-    company: LCWC Japan Exchange Program
+    company: Japan Visiting Program, University of Macau - University of Tokyo & Teikyo University
     company_url: ''
     company_logo: lcwc
     location: Tokyo, Japan
-    date_start: '2019-02-01'
-    date_end: '2020-07-07'
-#    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2019-06-01'
+    date_end: '2020-06-07'
+    description: |2-
+        Responsibilities include:
+        
+        *	Coordinated with the corresponding professor to negotiate and confirm the exchange program details
+        *	Prepared, implemented, and monitored the overall budget (MOP$70,000) of the program
+        *	Organized and attended 5 Sino-Japanese cultural exchange activities, presented and introduced the social, political and economic perspectives of Macau to 200+ Japanese students
+        *	Led a social philosophy discussion with Japanese students as a part of Campaign _Philosophy for Everyone_ at University of Tokyo
 
   - title: Volunteer
-    company: LCWC Thailand Volunteering Team
+    company: Youth Leader Summit to Mark the 100th Anniversary of the May Fourth Movement
+    company_url: ''
+    company_logo: lcwc
+    location: Taipa, Macau
+    date_start: '2018-12-01'
+    date_end: '2018-12-07'
+    description: Discussed Chinese society with 100+ outstanding student representatives of universities from Mainland China
+
+  - title: Volunteer
+    company: Thailand Volunteering Team
     company_url: ''
     company_logo: lcwc
     location: Ching Rai, Thailand
     date_start: '2018-12-01'
     date_end: '2018-12-07'
-#    description: Taught electronic engineering and researched semiconductor physics.
+    description: 	Conducted village teaching and paved the road for local infrastructure construction (100+ hours)
 
 design:
   columns: '2'
