@@ -68,10 +68,10 @@ experience:
   - title: Volunteer
     company: Youth Leader Summit to Mark the 100th Anniversary of the May Fourth Movement
     company_url: ''
-    company_logo: lcwc
+    company_logo: umsu
     location: Taipa, Macau
-    date_start: '2018-12-01'
-    date_end: '2018-12-07'
+    date_start: '2019-05-01'
+    date_end: '2019-05-07'
     description: |2-
         Responsibilities include:
         
