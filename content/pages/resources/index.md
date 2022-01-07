@@ -41,7 +41,4 @@ I will list online academic resources (free!) that I recommend in following togg
 - CV/Resume
   - [Resumes & Cover Letters for PhD Students by Harvard](https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)
 
-#- Personal Statement
-#  - [Writing Statement of Purpose for Graduate School Application: Political Science as a Case by Professor Yuhua #Wang](https://scholar.harvard.edu/files/yuhuawang/files/writing_statement_of_purpose_for_graduate_school_application_2021_yuhua_wang_0.pdf)
-
 {{< /spoiler >}}
