@@ -70,4 +70,4 @@ I am a Undergraduate Researcher working under the advisement of [Professor Tao L
 
 Aiming to promote {{< icon name="r-project" pack="fab" >}}  and data analysis skills in university, I also served as Undergraduate Teaching Assistant for [*Big Data Analysis Foundation*](#teaching) in Spring 2021, a pilot course under [Residental College Academic Tutorials (RCAT) Programmes](https://rc.um.edu.mo/rc-academic-matters/rcat-programmes/) at University of Macau.  
 
-While I am on 2021/22 Fall MA/MSc/MPhil/Predoc application cycle, I am also looking for RA positions in Summer 2022! Please feel free to reach me at minghui.zhu@connect.um.edu.mo.
+I am also looking for RA positions in Summer 2022! Please feel free to reach me at minghui.zhu@connect.um.edu.mo.
