@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-I will list online academic resources (free!) that I recommend in following toggle lists.
+I will list online academic resources that I recommend in following toggle lists. I will enrich the lists soon.
 
 {{< spoiler text="**Data Analysis with R**" >}}
 - **R Programming**
