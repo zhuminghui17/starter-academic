@@ -47,7 +47,7 @@ design:
   flip_alt_rows: false
 ---
 
-{{< spoiler text='**Elite Resettlement: Intergenerational Evidence from China** with Professor Tao Li' >}}
+{{< spoiler text="**Elite Resettlement: Intergenerational Evidence from China** with Professor Tao Li" >}}
 
 - *Abstract*
 
