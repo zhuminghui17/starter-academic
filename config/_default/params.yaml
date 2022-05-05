@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: ocean
+theme: "duke"
 day_night: true
 font: 'my_font_set'
 font_size: S
@@ -15,7 +15,7 @@ font_size: S
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: 'Social Sciences Student'
+description: 'Econ & CS Student'
 twitter: ''
 
 # Contact (edit or remove options as required)
