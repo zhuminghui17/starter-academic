@@ -54,7 +54,7 @@ design:
   - Political economy theories take elite composition as given and emphasize modern institutions as a platform of elite coalitions. Our paper instead highlights an ancient empire-building institution—elite resettlement—as an alternative approach to coalitional buildings. At the end of the civil war in 1949, the Chinese Communist Party sent a large number of south-bound cadres (SBCs) from Northern revolutionary bases to take over newly liberated Southern provinces. Our research tries to provide evidence for the intergenerational persistence of resettled elites by drawing on new data that we collected on SBCs and college entrance test (CET) archives in Zhejiang province. Our identification exploits the as-if random assignment of SBCs across different counties. The regression models with county and surname fixed effects show that the surnames of SBCs are over-represented among students who successfully passed the CET in 1995, suggesting that the grandchildren of SBC elites still thrive in a meritocratic college admission system. We further show that the political strength of the SBCs matters for intergenerational persistence and that the SBC families remain more “northern” than locals in how they name their children. Our article suggests that elite resettlement can build a ruler-elite coalition in favor of the ruler. 
   
 
-- *Scheduled Presentation*
+- *Presentation*
 
   - Seminar on Economics, Department of Economics, University of Macau (2022)
   - 79th Midwest Political Science Association Annual Conference (2022)

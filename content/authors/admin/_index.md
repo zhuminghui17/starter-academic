@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:minghui.zhu@connect.um.edu.com"
+  link: "mailto:minghui.zhu@duke.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MinghuiZhu4
@@ -76,4 +76,4 @@ During my undergraduate at UM, I was lucky to work with [Professor Tao LI](https
 
 Aiming to promote {{< icon name="r-project" pack="fab" >}}  and data analysis skills in university, I also served as Undergraduate Teaching Assistant for [*Big Data Analysis Foundation*](#teaching) in Spring 2021, a pilot course under [Residental College Academic Tutorials (RCAT) Programmes](https://rc.um.edu.mo/rc-academic-matters/rcat-programmes/) at University of Macau.  
 
-I am also looking for RA positions in Summer 2022! Please feel free to reach me at minghui.zhu@connect.um.edu.mo.
+I am also looking for RA positions in Summer 2022! Please feel free to reach me at minghui.zhu@duke.edu.
