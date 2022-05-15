@@ -6,12 +6,12 @@ title: Minghui Zhu
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Researcher
+role: Incoming Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Macau
-  url: https://www.um.edu.mo/
+- name: Duke University
+  url: https://duke.edu/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: Hi there!
