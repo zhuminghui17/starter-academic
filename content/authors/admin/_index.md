@@ -29,7 +29,7 @@ education:
   - course: M.S. in Economics & Computation
     institution: Duke University
     year: Expected 24'
-  - course: B.S.Sc in Economics
+  - course: B.S.Sc in Economics *with academic prize*
     institution: University of Macau
     year: Expected 22'
  
