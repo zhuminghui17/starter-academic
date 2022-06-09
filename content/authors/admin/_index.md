@@ -31,7 +31,7 @@ education:
     year: Expected 24'
   - course: B.S.Sc in Economics
     institution: University of Macau
-    year: Expected 22'
+    year: 22'
  
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
