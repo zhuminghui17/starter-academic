@@ -70,7 +70,7 @@ highlight_name: false
 
 Welcome! I am a senior student from [Faculty of Social Sciences](https://fss.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). I major in Economics and take advanced seminars in Political Science and Methodology. I also studied as a summer exchange student at [University of Leeds](https://www.leeds.ac.uk/) (2019) and [Peking University](https://english.pku.edu.cn/) (2021). 
 
-**I am proud to announce that I will start my new journey at [Economics](https://econ.duke.edu/) and [Computer Science Departments](https://www.cs.duke.edu/), [Duke University](https://duke.edu/). See you in the east coast!**
+**I am proud to announce that I will start my new journey at [Economics](https://econ.duke.edu/) and [Computer Science Departments](https://www.cs.duke.edu/), [Duke University](https://duke.edu/). See you in the Gothic Wonderland!**
 
 During my undergraduate at UM, I was lucky to work with [Professor Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html). I have rich experience in data collection, cleaning, and analysis using {{< icon name="r-project" pack="fab" >}} . Currently I focus on projects regarding *elite resettlement* with various datasets. I also worked as Research Intern at [National Survey Research Center at Renmin University of China](http://nsrc.ruc.edu.cn/) on [China Education Panel Survey (CEPS)](http://ceps.ruc.edu.cn/English/Home.htm) in 2020.
 
