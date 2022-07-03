@@ -53,7 +53,7 @@ social:
   link: https://github.com/zhuminghui17
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/minghui-zhu-6629bb18a/
+  link: https://www.linkedin.com/in/zhuminghui17/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
