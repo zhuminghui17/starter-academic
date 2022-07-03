@@ -68,12 +68,7 @@ email: ""
 highlight_name: false
 ---
 
-Welcome! I am a senior student from [Faculty of Social Sciences](https://fss.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). I major in Economics and take advanced seminars in Political Science and Methodology. I also studied as a summer exchange student at [University of Leeds](https://www.leeds.ac.uk/) (2019) and [Peking University](https://english.pku.edu.cn/) (2021). 
+Welcome! I am an incoming MS student at [Economics](https://econ.duke.edu/) and [Computer Science Departments](https://www.cs.duke.edu/), [Duke University](https://duke.edu/). I recieved my B.Soc.Sc in Economics (with highest distinction) from [University of Macau](https://www.um.edu.mo/) (also a [featured graduate] of Econ Dept). My undergraduate advisor is [Professor Tao Li](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html). I was lucky to join his research group and take advanced seminars in Political Economy and Computational Methods. I also studied as an exchange student at [University of Leeds](https://www.leeds.ac.uk/) (2019) and [Peking University](https://english.pku.edu.cn/) (2021). 
+I have a broad interest in the intersection of computer/data science and social science. During my undergrad, I applied causal inference and computational techniques in projects regarding *elite resettlement*. This working paper has been presented in various conferences and seminars. For my graduate study at Duke, I hope to explore lean towards the methodology part, e.g., machine learning and causal inference, NLP, etc.      
 
-**I am proud to announce that I will start my new journey at [Economics](https://econ.duke.edu/) and [Computer Science Departments](https://www.cs.duke.edu/), [Duke University](https://duke.edu/). See you in the Gothic Wonderland!**
-
-During my undergraduate at UM, I was lucky to work with [Professor Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html). I have rich experience in data collection, cleaning, and analysis using {{< icon name="r-project" pack="fab" >}} . Currently I focus on projects regarding *elite resettlement* with various datasets. I also worked as Research Intern at [National Survey Research Center at Renmin University of China](http://nsrc.ruc.edu.cn/) on [China Education Panel Survey (CEPS)](http://ceps.ruc.edu.cn/English/Home.htm) in 2020.
-
-Aiming to promote {{< icon name="r-project" pack="fab" >}}  and data analysis skills in university, I also served as Undergraduate Teaching Assistant for [*Big Data Analysis Foundation*](#teaching) in Spring 2021, a pilot course under [Residental College Academic Tutorials (RCAT) Programmes](https://rc.um.edu.mo/rc-academic-matters/rcat-programmes/) at University of Macau.  
-
-I am also looking for RA positions in Summer 2022! Please feel free to reach me at minghui.zhu@duke.edu.
+I also worked as Research Intern at [National Survey Research Center at Renmin University of China](http://nsrc.ruc.edu.cn/) on [China Education Panel Survey (CEPS)](http://ceps.ruc.edu.cn/English/Home.htm) in 2020 and Teaching Assistant for [*Big Data Analysis Foundation*](#teaching) in Spring 2021.
