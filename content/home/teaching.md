@@ -15,8 +15,7 @@ weight: 70
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 ---
-#### Big Data Analysis Foundation (Spring 2021) ####
-Residental College Academic Tutorials, Ma Man Kei and Lo Pak Sam College, University of Macau <br>
-_Teaching Assistant_, with Professor [Tao LI](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) <br>
+#### Big Data Analysis Foundation, University of Macau (Spring 2021) ####
+Teaching Assistant, with Professor [Tao Li](https://www.um.edu.mo/fss/pa/about_us/staff/TaoLi.html) <br>
 {{% staticref "uploads/teaching_poster.pdf" "newtab" %}}Course Poster{{% /staticref %}}, [Online Textbook](https://r4ds.had.co.nz), {{% staticref "uploads/teaching_certificate.pdf" "newtab" %}}My Certificate (in Chinese){{% /staticref %}}
         
