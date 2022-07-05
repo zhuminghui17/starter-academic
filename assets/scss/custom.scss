@@ -1,6 +1,27 @@
 #about {
+  /* Some CSS will go here soon! */
+  /* This is a comment, by the way. */
+}
+
+#about {
   .biography-title {
     color: red;
   }
 }
 
+#about {
+  @keyframes yourfirstanimation {
+    0% {
+      opacity: 0;
+      color: red;
+    }
+    100% {
+      opacity: 1;
+      color: black;
+    }
+  }
+
+  .biography-title {
+    animation: yourfirstanimation 5s forwards;
+  }
+}
