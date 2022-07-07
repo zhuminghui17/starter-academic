@@ -1,0 +1,19 @@
+# Theme metadata
+name = "Duke"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "rgb(1, 33, 105)"
+
+# Menu
+menu_primary = "rgb(1, 33, 105)"
+menu_text = "#fff"
+menu_text_active = "#8c9eff"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+home_section_heading = "rgb(1, 33, 105)"
