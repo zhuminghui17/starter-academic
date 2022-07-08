@@ -5,10 +5,10 @@ name = "Duke"
 light = true
 
 # Primary
-primary = "rgb(0, 83, 155)"
+primary = "rgb(1,48,136)"
 
 # Menu
-menu_primary = "rgb(0, 83, 155)"
+menu_primary = "rgb(1,48,136)"
 menu_text = "#fff"
 menu_text_active = "#8c9eff"
 menu_title = "#fff"
@@ -16,4 +16,4 @@ menu_title = "#fff"
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
-home_section_heading = "rgb(0, 83, 155)"
+home_section_heading = "rgb(1,48,136)"
