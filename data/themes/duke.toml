@@ -5,10 +5,10 @@ name = "Duke"
 light = true
 
 # Primary
-primary = "rgb(1,48,136)"
+primary = "rgb(0,56,130)" #1 48 136
 
 # Menu
-menu_primary = "rgb(1,48,136)"
+menu_primary = "rgb(0,56,130)"
 menu_text = "#fff"
 menu_text_active = "#8c9eff"
 menu_title = "#fff"
