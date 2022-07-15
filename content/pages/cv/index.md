@@ -13,4 +13,4 @@ header:
   caption: ""
   image: ""
 ---
-Please feel free to email me at minghui.zhu@connect.um.edu.mo for the latest version of my CV!
+Please feel free to email me at minghui.zhu@duke.edu for the latest version of my CV!
