@@ -16,7 +16,7 @@ weight = 120
 
 +++
 
-<youtube s-6sVbwWdrI>
+{{< youtube s-6sVbwWdrI >}}
 
 <!-- 3D globe -->
 
