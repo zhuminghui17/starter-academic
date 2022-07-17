@@ -16,7 +16,7 @@ weight = 120
 
 +++
 
-{{< youtube autoplay loop muted width="1280" s-6sVbwWdrI >}}
+{{< youtube id="s-6sVbwWdrI" autoplay="true" muted="true" width="1280" >}}
 
 <!-- 3D globe -->
 
