@@ -16,9 +16,9 @@ weight = 120
 
 +++
 
-My life motto is ```work hard, play hard```. Besides study and research, I had four unforgettable years of student life. Here is the video to memorize my four years at UM (it should be more wonderful if there were no covid).  
+My life motto is ***```work hard, play hard```***. Besides study and research, I had four unforgettable years of student life. Here is the video to memorize my four years at UM (it should be more wonderful if there were no covid).  
 
-{{< youtube id="s-6sVbwWdrI" autoplay="true" muted="true" width="480" title="Wonderful College Life">}}
+{{< youtube id="s-6sVbwWdrI" autoplay="true" muted="true" width="1920" height="1080" mqdefault = "true">}}
 
 <!-- 3D globe -->
 
