@@ -16,7 +16,7 @@ weight = 120
 
 +++
 
-{{< youtube id="s-6sVbwWdrI" autoplay="true" muted="true" width="1280" >}}
+{{< youtube id="s-6sVbwWdrI" autoplay="true" muted="true" width="1280" title="Wonderful College Life">}}
 
 <!-- 3D globe -->
 
