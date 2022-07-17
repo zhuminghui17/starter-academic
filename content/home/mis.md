@@ -7,7 +7,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Mischievous"
+title = "Miscellaneous"
 
 # Order that this section will appear in.
 weight = 120
@@ -20,7 +20,7 @@ My life motto is {{< hl >}}_**work hard, play hard**_{{< /hl >}}. Besides study 
 
 _**In many dark moments ahead, these memories are our ropes to escape.**_
 
-{{< youtube id="s-6sVbwWdrI" autoplay="true" muted="true" modestbranding="true" width="1920" height="1080">}}
+{{< youtube id="s-6sVbwWdrI" autoplay="true" muted="true" modestbranding="true" width="300px" height="200px">}}
 
 <!-- 3D globe -->
 
