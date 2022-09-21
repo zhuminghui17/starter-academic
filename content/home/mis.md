@@ -14,13 +14,14 @@ weight = 120
 
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
+#My life motto is {{< hl >}}_**work hard, play hard**_{{< /hl >}}. Besides study and research, I had four unforgettable years # of student life. Here is the video to memorize my four years at UM (it should be more wonderful if there were no covid:sob:).
+
+#_**In many dark moments ahead, these memories are our ropes to escape.**_
+
+#{{< youtube id="s-6sVbwWdrI" autoplay="true" muted="true" modestbranding="true" width="300px" height="200px">}}
+
+
 +++
-
-# My life motto is {{< hl >}}_**work hard, play hard**_{{< /hl >}}. Besides study and research, I had four unforgettable years # of student life. Here is the video to memorize my four years at UM (it should be more wonderful if there were no covid:sob:).
-
-# _**In many dark moments ahead, these memories are our ropes to escape.**_
-
-# {{< youtube id="s-6sVbwWdrI" autoplay="true" muted="true" modestbranding="true" width="300px" height="200px">}}
 
 <!-- 3D globe -->
 
