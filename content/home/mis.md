@@ -20,7 +20,6 @@ weight = 120
 
 #{{< youtube id="s-6sVbwWdrI" autoplay="true" muted="true" modestbranding="true" width="300px" height="200px">}}
 
-
 +++
 
 <!-- 3D globe -->
