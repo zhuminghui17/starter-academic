@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 
 
 title: Working Paper
 subtitle: 'Available Upon Request'
